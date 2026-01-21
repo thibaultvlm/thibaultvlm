@@ -29,9 +29,6 @@ J’adore héberger des serveurs, optimiser des environnements Windows/Linux et 
   <!-- SQL Server -->
   <img height="48" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" title="SQL Server" />
 
-  <!-- SSMS -->
-  <img height="48" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/ssms-icon.png" title="SSMS" />
-
   <!-- phpMyAdmin -->
   <img height="48" src="https://www.phpmyadmin.net/static/images/logo.png" title="phpMyAdmin" />
 </p>
@@ -41,18 +38,22 @@ J’adore héberger des serveurs, optimiser des environnements Windows/Linux et 
 ## 🛠️ Outils & DevOps
 <p>
   <!-- Skillicons -->
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,windows,apple,vscode,phpstorm,powershell,ubuntu,arch" />
-
-  <!-- Windows Server -->
-  <img height="48" src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg" title="Windows Server" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,windows,linux,vscode,phpstorm,powershell" />
 
   <!-- Power BI -->
   <img height="48" src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" title="Power BI" />
 
+</p>
+
+---
+## 🛠️ Système d'exploitation
+<p>
+  <!-- Skillicons -->
+  <img src="https://skillicons.dev/icons?i=linux,windows,apple,ubuntu,arch" />
+
   <!-- Rocky Linux -->
   <img height="48" src="https://cdn.worldvectorlogo.com/logos/rocky-linux.svg" title="Rocky Linux" />
 </p>
-
 ---
 
 ## 🌐 Réseau & Infrastructure
