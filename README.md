@@ -87,8 +87,8 @@ J’adore héberger des serveurs, optimiser des environnements Windows/Linux et 
 
 ## 📫 Me contacter
 
-- ✉️ Email : *à compléter*  
-- 💼 LinkedIn : *à compléter*  
+- ✉️ Email : vuillaume.thibault55+pro@gmail.com
+- 💼 LinkedIn : https://www.linkedin.com/in/thibault-vuillaume-a870a9363/
 
 ---
 
