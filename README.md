@@ -9,14 +9,14 @@ J’adore héberger des serveurs, optimiser des environnements Windows/Linux et 
 
 ### 🧠 Langages
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,php,java,cs,cpp,kotlin,html,css,vue,python,c,flutter" />
+  <img src="https://skillicons.dev/icons?i=ts,js,php,java,cs,cpp,kotlin,html,css,vue,python,c,flutter,cmake" />
 </p>
 
 ---
 
 ### ⚛️ Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,laravel,nodejs,nestjs" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,laravel,nodejs,nestjs;discordjs,npm,tailwind" />
 </p>
 
 ---
@@ -24,7 +24,7 @@ J’adore héberger des serveurs, optimiser des environnements Windows/Linux et 
 ## 🗄️ Bases de données & Administration
 <p>
   <!-- MongoDB -->
-  <img src="https://skillicons.dev/icons?i=mongodb,sqlserver,prisma" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,prisma,postgres" />
 
   <!-- SQL Server -->
   <img height="48" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" title="SQL Server" />
@@ -38,7 +38,7 @@ J’adore héberger des serveurs, optimiser des environnements Windows/Linux et 
 ## 🛠️ Outils & DevOps
 <p>
   <!-- Skillicons -->
-  <img src="https://skillicons.dev/icons?i=docker,git,github,windows,linux,vscode,phpstorm,powershell" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,windows,linux,vscode,phpstorm,eclipse,idea,powershell,bash" />
 
   <!-- Power BI -->
   <img height="48" src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" title="Power BI" />
@@ -49,7 +49,7 @@ J’adore héberger des serveurs, optimiser des environnements Windows/Linux et 
 ## 🛠️ Système d'exploitation
 <p>
   <!-- Skillicons -->
-  <img src="https://skillicons.dev/icons?i=linux,windows,apple,ubuntu,arch" />
+  <img src="https://skillicons.dev/icons?i=linux,windows,apple,ubuntu,arch,debian,kali,mint" />
 
   <!-- Rocky Linux -->
   <img height="48" src="https://cdn.worldvectorlogo.com/logos/rocky-linux.svg" title="Rocky Linux" />
@@ -66,6 +66,12 @@ J’adore héberger des serveurs, optimiser des environnements Windows/Linux et 
 ## 🔧 Hardware & Électronique
 <p>
   <img src="https://skillicons.dev/icons?i=raspberrypi,arduino" />
+</p>
+
+---
+## 🎮 Jeu Vidéo
+<p>
+  <img src="https://skillicons.dev/icons?i=unreal,unity" />
 </p>
 
 ---
