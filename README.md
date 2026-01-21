@@ -21,55 +21,55 @@ J’adore héberger des serveurs, optimiser des environnements Windows/Linux et 
 
 ---
 
-### 🗄️ Bases de données & Administration
+## 🗄️ Bases de données & Administration
 <p>
   <!-- MongoDB -->
   <img src="https://skillicons.dev/icons?i=mongodb" />
 
   <!-- SQL Server -->
-  <img height="48" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/microsoft-sql-server.svg" title="SQL Server" />
+  <img height="48" src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" title="SQL Server" />
 
   <!-- SSMS -->
-  <img height="48" src="https://raw.githubusercontent.com/microsoft/SQL-Server-Samples/master/samples/manage/ssms/media/ssms-icon.png" title="SSMS" />
+  <img height="48" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/ssms-icon.png" title="SSMS" />
 
   <!-- phpMyAdmin -->
-  <img height="48" src="https://raw.githubusercontent.com/phpmyadmin/phpmyadmin/master/themes/pmahomme/img/logo_left.png" title="phpMyAdmin" />
+  <img height="48" src="https://www.phpmyadmin.net/static/images/logo.png" title="phpMyAdmin" />
 </p>
 
 ---
 
-### 🛠️ Outils & DevOps
+## 🛠️ Outils & DevOps
 <p>
   <!-- Skillicons -->
   <img src="https://skillicons.dev/icons?i=docker,git,github,linux,windows,apple,vscode,phpstorm,powershell,ubuntu,arch" />
 
   <!-- Windows Server -->
-  <img height="48" src="https://raw.githubusercontent.com/microsoft/PowerToys/master/src/settings-ui/Settings.UI/Assets/WindowsLogo.png" title="Windows Server" />
+  <img height="48" src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg" title="Windows Server" />
 
   <!-- Power BI -->
-  <img height="48" src="https://raw.githubusercontent.com/microsoft/powerbi-desktop-samples/main/assets/powerbi-icon.png" title="Power BI" />
+  <img height="48" src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" title="Power BI" />
 
   <!-- Rocky Linux -->
-  <img height="48" src="https://raw.githubusercontent.com/rocky-linux/branding/main/logo/rocky-linux-logo.png" title="Rocky Linux" />
+  <img height="48" src="https://cdn.worldvectorlogo.com/logos/rocky-linux.svg" title="Rocky Linux" />
 </p>
 
 ---
 
-### 🌐 Réseau & Infrastructure
+## 🌐 Réseau & Infrastructure
 <p>
   <!-- Cisco -->
-  <img height="48" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/cisco.svg" title="Cisco" />
+  <img height="48" src="https://cdn.worldvectorlogo.com/logos/cisco-2.svg" title="Cisco" />
 
   <!-- Networking -->
-  <img height="48" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/protocols-io.svg" title="Networking" />
+  <img height="48" src="https://cdn.worldvectorlogo.com/logos/protocols-io.svg" title="Networking" />
 
   <!-- Routing & Switching -->
-  <img height="48" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/ubiquiti.svg" title="Routing & Switching" />
+  <img height="48" src="https://cdn.worldvectorlogo.com/logos/ubiquiti.svg" title="Routing & Switching" />
 </p>
 
 ---
 
-### 🔧 Hardware & Électronique
+## 🔧 Hardware & Électronique
 <p>
   <img src="https://skillicons.dev/icons?i=raspberrypi,arduino" />
 </p>
@@ -77,7 +77,6 @@ J’adore héberger des serveurs, optimiser des environnements Windows/Linux et 
 ---
 
 ## 📊 Stats GitHub
-
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=thibaultvlm&show_icons=true&theme=tokyonight" />
 </p>
