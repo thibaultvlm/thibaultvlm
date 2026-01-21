@@ -22,9 +22,11 @@ J’adore héberger des serveurs, optimiser des environnements Windows/Linux et 
   <img src="https://skillicons.dev/icons?i=docker,git,github,linux,windows,apple,vscode,phpstorm" />
 </p>
 
-### 🌐 Réseau & Infra
+### 🌐 Réseau & Infrastructure
 <p>
-  <img src="https://skillicons.dev/icons?i=cisco" />
+  <img src="https://img.shields.io/badge/Cisco-Networking-blue?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Networking-Infrastructure-green?style=for-the-badge&logo=protocols-dot-io&logoColor=white" />
+  <img src="https://img.shields.io/badge/Routing%20%26%20Switching-Expert-orange?style=for-the-badge" />
 </p>
 
 ### 🔧 Hardware & Électronique
