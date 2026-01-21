@@ -9,7 +9,7 @@ J’adore héberger des serveurs, optimiser des environnements Windows/Linux et 
 
 ### 🧠 Langages
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,php,java,cs,cpp,kotlin,html,css,python,c" />
+  <img src="https://skillicons.dev/icons?i=ts,js,php,java,cs,cpp,kotlin,html,css,vue,python,c" />
 </p>
 
 ---
@@ -24,7 +24,7 @@ J’adore héberger des serveurs, optimiser des environnements Windows/Linux et 
 ## 🗄️ Bases de données & Administration
 <p>
   <!-- MongoDB -->
-  <img src="https://skillicons.dev/icons?i=mongodb,sql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,sqlserver,prisma" />
 
   <!-- SQL Server -->
   <img height="48" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" title="SQL Server" />
