@@ -1,6 +1,6 @@
 # 👋 Salut, moi c’est Thibault
 
-Passionné par le développement web, j’apprends actuellement **Next.js**, **TypeScript**, et tout ce qui touche aux environnements modernes.  
+Passionné par le développement web, j’apprends actuellement **Next.js** ainsi que d'autre framework, tout ce qui touche aux environnements modernes.  
 J’adore héberger des serveurs, optimiser des environnements Windows/Linux et bricoler des projets techniques.
 
 ---
@@ -19,7 +19,7 @@ J’adore héberger des serveurs, optimiser des environnements Windows/Linux et 
 
 ### Outils & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,windows" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,windows,mac" />
 </p>
 
 ---
