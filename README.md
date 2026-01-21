@@ -20,29 +20,29 @@ J’adore héberger des serveurs, optimiser des environnements Windows/Linux et 
 ### 🗄️ Bases de données & Administration
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/SSMS-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=php&logoColor=white" />
+  <img height="48" src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" />
+  <img height="48" src="https://cdn.simpleicons.org/microsoft/0078D4" title="SSMS" />
+  <img height="48" src="https://cdn.simpleicons.org/php/777BB4" title="phpMyAdmin" />
 </p>
 
 ### 🛠️ Outils & DevOps
 <p>
   <img src="https://skillicons.dev/icons?i=docker,git,github,linux,windows,apple,vscode,phpstorm,powershell" />
-  <img src="https://img.shields.io/badge/Windows%20Server-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img height="48" src="https://cdn.simpleicons.org/windowsserver/0078D4" title="Windows Server" />
+  <img height="48" src="https://cdn.simpleicons.org/powerbi/F2C811" title="Power BI" />
 </p>
 
 ### 🐧 Systèmes d’exploitation
 <p>
   <img src="https://skillicons.dev/icons?i=ubuntu,arch" />
-  <img src="https://img.shields.io/badge/Rocky%20Linux-10B981?style=for-the-badge&logo=linux&logoColor=white" />
+  <img height="48" src="https://cdn.simpleicons.org/rockylinux/10B981" title="Rocky Linux" />
 </p>
 
 ### 🌐 Réseau & Infrastructure
 <p>
-  <img src="https://img.shields.io/badge/Cisco-Networking-blue?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Networking-Infrastructure-green?style=for-the-badge&logo=protocols-dot-io&logoColor=white" />
-  <img src="https://img.shields.io/badge/Routing%20%26%20Switching-Expert-orange?style=for-the-badge" />
+  <img height="48" src="https://cdn.simpleicons.org/cisco/1BA0D7" title="Cisco" />
+  <img height="48" src="https://cdn.simpleicons.org/protocolsdotio/2C4C7E" title="Networking" />
+  <img height="48" src="https://cdn.simpleicons.org/ubiquiti/0559C9" title="Routing & Switching" />
 </p>
 
 ### 🔧 Hardware & Électronique
