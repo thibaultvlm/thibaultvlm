@@ -12,38 +12,68 @@ J’adore héberger des serveurs, optimiser des environnements Windows/Linux et 
   <img src="https://skillicons.dev/icons?i=ts,js,php,java,cs,cpp,kotlin,html,css" />
 </p>
 
+---
+
 ### ⚛️ Frameworks
 <p>
   <img src="https://skillicons.dev/icons?i=nextjs,react,laravel,nodejs" />
 </p>
 
+---
+
 ### 🗄️ Bases de données & Administration
 <p>
+  <!-- MongoDB -->
   <img src="https://skillicons.dev/icons?i=mongodb" />
-  <img height="48" src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" title="SQL Server" />
-  <img height="48" src="https://cdn.simpleicons.org/microsoft/0078D4" title="SSMS" />
-  <img height="48" src="https://cdn.simpleicons.org/php/777BB4" title="phpMyAdmin" />
+
+  <!-- SQL Server -->
+  <img height="48" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/microsoft-sql-server.svg" title="SQL Server" />
+
+  <!-- SSMS -->
+  <img height="48" src="https://raw.githubusercontent.com/microsoft/SQL-Server-Samples/master/samples/manage/ssms/media/ssms-icon.png" title="SSMS" />
+
+  <!-- phpMyAdmin -->
+  <img height="48" src="https://raw.githubusercontent.com/phpmyadmin/phpmyadmin/master/themes/pmahomme/img/logo_left.png" title="phpMyAdmin" />
 </p>
+
+---
 
 ### 🛠️ Outils & DevOps
 <p>
   <img src="https://skillicons.dev/icons?i=docker,git,github,linux,windows,apple,vscode,phpstorm,powershell" />
-  <img height="48" src="https://cdn.simpleicons.org/windowsserver/0078D4" title="Windows Server" />
-  <img height="48" src="https://cdn.simpleicons.org/powerbi/F2C811" title="Power BI" />
+
+  <!-- Windows Server -->
+  <img height="48" src="https://raw.githubusercontent.com/microsoft/PowerToys/master/src/settings-ui/Settings.UI/Assets/WindowsLogo.png" title="Windows Server" />
+
+  <!-- Power BI -->
+  <img height="48" src="https://raw.githubusercontent.com/microsoft/powerbi-desktop-samples/main/assets/powerbi-icon.png" title="Power BI" />
 </p>
+
+---
 
 ### 🐧 Systèmes d’exploitation
 <p>
   <img src="https://skillicons.dev/icons?i=ubuntu,arch" />
-  <img height="48" src="https://cdn.simpleicons.org/rockylinux/10B981" title="Rocky Linux" />
+
+  <!-- Rocky Linux -->
+  <img height="48" src="https://raw.githubusercontent.com/rocky-linux/branding/main/logo/rocky-linux-logo.png" title="Rocky Linux" />
 </p>
+
+---
 
 ### 🌐 Réseau & Infrastructure
 <p>
-  <img height="48" src="https://cdn.simpleicons.org/cisco/1BA0D7" title="Cisco" />
-  <img height="48" src="https://cdn.simpleicons.org/protocolsdotio/2C4C7E" title="Networking" />
-  <img height="48" src="https://cdn.simpleicons.org/ubiquiti/0559C9" title="Routing & Switching" />
+  <!-- Cisco -->
+  <img height="48" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/cisco.svg" title="Cisco" />
+
+  <!-- Networking -->
+  <img height="48" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/protocols-io.svg" title="Networking" />
+
+  <!-- Routing & Switching -->
+  <img height="48" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/ubiquiti.svg" title="Routing & Switching" />
 </p>
+
+---
 
 ### 🔧 Hardware & Électronique
 <p>
