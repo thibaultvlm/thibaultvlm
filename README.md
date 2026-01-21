@@ -20,7 +20,7 @@ J’adore héberger des serveurs, optimiser des environnements Windows/Linux et 
 ### 🗄️ Bases de données & Administration
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb" />
-  <img height="48" src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" />
+  <img height="48" src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" title="SQL Server" />
   <img height="48" src="https://cdn.simpleicons.org/microsoft/0078D4" title="SSMS" />
   <img height="48" src="https://cdn.simpleicons.org/php/777BB4" title="phpMyAdmin" />
 </p>
