@@ -24,7 +24,7 @@ J’adore héberger des serveurs, optimiser des environnements Windows/Linux et 
 ## 🗄️ Bases de données & Administration
 <p>
   <!-- MongoDB -->
-  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=mongodb,sql" />
 
   <!-- SQL Server -->
   <img height="48" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" title="SQL Server" />
