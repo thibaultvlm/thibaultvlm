@@ -9,7 +9,7 @@ J’adore héberger des serveurs, optimiser des environnements Windows/Linux et 
 
 ### 🧠 Langages
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,php,java,cs,cpp,kotlin,html,css" />
+  <img src="https://skillicons.dev/icons?i=ts,js,php,java,cs,cpp,kotlin,html,css,python,c" />
 </p>
 
 ---
