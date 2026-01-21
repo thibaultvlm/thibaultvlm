@@ -17,9 +17,25 @@ J’adore héberger des serveurs, optimiser des environnements Windows/Linux et 
   <img src="https://skillicons.dev/icons?i=nextjs,react,laravel,nodejs" />
 </p>
 
+### 🗄️ Bases de données & Administration
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/SSMS-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=php&logoColor=white" />
+</p>
+
 ### 🛠️ Outils & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,windows,apple,vscode,phpstorm" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,windows,apple,vscode,phpstorm,powershell" />
+  <img src="https://img.shields.io/badge/Windows%20Server-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
+
+### 🐧 Systèmes d’exploitation
+<p>
+  <img src="https://skillicons.dev/icons?i=ubuntu,arch" />
+  <img src="https://img.shields.io/badge/Rocky%20Linux-10B981?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
 ### 🌐 Réseau & Infrastructure
