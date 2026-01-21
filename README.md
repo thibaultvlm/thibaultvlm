@@ -40,20 +40,14 @@ J’adore héberger des serveurs, optimiser des environnements Windows/Linux et 
 
 ### 🛠️ Outils & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,windows,apple,vscode,phpstorm,powershell" />
+  <!-- Skillicons -->
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,windows,apple,vscode,phpstorm,powershell,ubuntu,arch" />
 
   <!-- Windows Server -->
   <img height="48" src="https://raw.githubusercontent.com/microsoft/PowerToys/master/src/settings-ui/Settings.UI/Assets/WindowsLogo.png" title="Windows Server" />
 
   <!-- Power BI -->
   <img height="48" src="https://raw.githubusercontent.com/microsoft/powerbi-desktop-samples/main/assets/powerbi-icon.png" title="Power BI" />
-</p>
-
----
-
-### 🐧 Systèmes d’exploitation
-<p>
-  <img src="https://skillicons.dev/icons?i=ubuntu,arch" />
 
   <!-- Rocky Linux -->
   <img height="48" src="https://raw.githubusercontent.com/rocky-linux/branding/main/logo/rocky-linux-logo.png" title="Rocky Linux" />
