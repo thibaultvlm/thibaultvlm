@@ -16,7 +16,7 @@ J’adore héberger des serveurs, optimiser des environnements Windows/Linux et 
 
 ### ⚛️ Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,laravel,nodejs" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,laravel,nodejs,nestjs" />
 </p>
 
 ---
