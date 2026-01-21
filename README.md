@@ -57,14 +57,7 @@ J’adore héberger des serveurs, optimiser des environnements Windows/Linux et 
 
 ## 🌐 Réseau & Infrastructure
 <p>
-  <!-- Cisco -->
-  <img height="48" src="https://cdn.worldvectorlogo.com/logos/cisco-2.svg" title="Cisco" />
-
-  <!-- Networking -->
-  <img height="48" src="https://www.svgrepo.com/show/353912/network.svg" title="Networking" />
-
-  <!-- Routing & Switching -->
-  <img height="48" src="https://www.svgrepo.com/show/331368/router.svg" title="Routing & Switching" />
+<img src="https://img.shields.io/badge/Cisco-Networking-blue?style=for-the-badge&logo=cisco&logoColor=white" /> <img src="https://img.shields.io/badge/Networking-Infrastructure-green?style=for-the-badge&logo=protocols-dot-io&logoColor=white" /> <img src="https://img.shields.io/badge/Routing%20%26%20Switching-Expert-orange?style=for-the-badge" />
 </p>
 
 ---
