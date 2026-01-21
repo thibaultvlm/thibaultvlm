@@ -27,7 +27,7 @@ J’adore héberger des serveurs, optimiser des environnements Windows/Linux et 
   <img src="https://skillicons.dev/icons?i=mongodb" />
 
   <!-- SQL Server -->
-  <img height="48" src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" title="SQL Server" />
+  <img height="48" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" title="SQL Server" />
 
   <!-- SSMS -->
   <img height="48" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/ssms-icon.png" title="SSMS" />
@@ -61,10 +61,10 @@ J’adore héberger des serveurs, optimiser des environnements Windows/Linux et 
   <img height="48" src="https://cdn.worldvectorlogo.com/logos/cisco-2.svg" title="Cisco" />
 
   <!-- Networking -->
-  <img height="48" src="https://cdn.worldvectorlogo.com/logos/protocols-io.svg" title="Networking" />
+  <img height="48" src="https://www.svgrepo.com/show/353912/network.svg" title="Networking" />
 
   <!-- Routing & Switching -->
-  <img height="48" src="https://cdn.worldvectorlogo.com/logos/ubiquiti.svg" title="Routing & Switching" />
+  <img height="48" src="https://www.svgrepo.com/show/331368/router.svg" title="Routing & Switching" />
 </p>
 
 ---
