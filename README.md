@@ -1,6 +1,6 @@
 # 👋 Salut, moi c’est Thibault
 
-Passionné par le développement web, j’apprends actuellement **Next.js**, **TypeScript**, et tout ce qui touche aux environnements modernes.  
+Passionné par le développement web, j’aime apprendre tout ce qui touche aux environnements modernes.  
 J’adore héberger des serveurs, optimiser des environnements Windows/Linux et bricoler des projets techniques.
 
 ---
