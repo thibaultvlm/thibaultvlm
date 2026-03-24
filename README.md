@@ -85,7 +85,7 @@ J’adore héberger des serveurs, optimiser des environnements Windows/Linux et 
 
 ## 🧩 Projets en cours
 
-- 🚀 **Dashboard Next.js** – apprentissage du framework  
+- 🚀 **Voxar** – application de communication 
 - 🛠️ **Serveurs de jeux (ARK, Minecraft, Eco)** – hébergement & optimisation  
 - ⚙️ **Scripts Windows / Linux** – automatisation & maintenance
 
